@@ -88,3 +88,32 @@
 .see{
     display: flex;
 }
+.show{
+    display: flex;
+    justify-content: space-around;
+}
+.show2{
+    display: flex;
+    justify-content: space-around;
+}
+.fa-solid{
+    font-size: 25px;
+    
+}
+.fa-pen-to-square{
+    font-size: 25px;
+    margin-left: 150px;
+ 
+}
+.in{
+    display: flex;
+    margin-top: 15px;
+    /* padding-right: 135px; */
+    /* margin-left: 90px; */
+}
+.po{
+margin-left: 2px;
+}
+.ca{
+    margin-left: 300px;
+}
